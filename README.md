@@ -1,1 +1,3 @@
-# limpiando-dataset-y-analizando-informaci-n
+lo primero que hice fue crear la carpeta en mi escritorio junto con las subcarpetas, movi el archivo de las notas a mi carpeta data, posteriormente importe la extensión jupyter y python no ya que ya lo tenia,
+despues cree  una hoja nueva en nnotebooks y la llame presentacion.ipynb
+posteriormente en mi notebook importe todos lo necesario y agrege los prints para la visualizacion de los datos, agrege en la carpeta src el archivo limpieza.py que se encarga de hacer todas las limpiezas para el data y tambien el archivo analisis.py donde cree dos funciones, una trae los datos y la otra agrupa los datos
